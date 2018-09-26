@@ -20,7 +20,7 @@ describe 'node::default' do
     end
 
     it 'should run apt get update' do
-      expect (chef_run).to update_apt_update("update_sources")
+      expect(chef_run).to update_apt_update("update_sources")
     end
 
     it 'should install nginx' do
