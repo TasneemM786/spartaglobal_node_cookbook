@@ -1,5 +1,5 @@
 #
-# Cookbook:: node
+# Cookbook:: node testing
 # Spec:: default
 #
 # Copyright:: 2018, The Authors, All Rights Reserved.
